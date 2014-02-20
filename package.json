@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-element-event",
+  "description": "event plugin for element",
+  "version": "0.0.1",
+  "keywords": [
+    "element",
+    "event"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
